@@ -7,7 +7,7 @@ Summary:	Filters to enhance web typography, including support for Django & Jinja
 Summary(pl.UTF-8):	Filtry rozszerzające typografię WWW z obsługą szablonów Django i Jinja
 Name:		python-typogrify
 Version:	2.0.7
-Release:	6
+Release:	7
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/typogrify/
